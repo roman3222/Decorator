@@ -1,0 +1,4 @@
+2023-01-29 13:21:26.938930 - Function "summator" was called with arguments (2, 2)and keyword arguments {}. Returned value: 4
+2023-01-29 13:21:26.939930 - Function "summator" was called with arguments (4.3,)and keyword arguments {'b': 2.2}. Returned value: 6.5
+2023-01-29 13:21:26.940930 - Function "summator" was called with arguments (2, 2)and keyword arguments {}. Returned value: 4
+2023-01-29 13:21:26.941929 - Function "summator" was called with arguments (4.3,)and keyword arguments {'b': 2.2}. Returned value: 6.5
